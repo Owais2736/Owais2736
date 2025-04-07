@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" />
+<img src="https://img.freepik.com/free-photo/computer-program-coding-screen_53876-138060.jpg?semt=ais_hybrid&w=740" alt="javascript"  />
 <h1>Hi 👋, I'm Owais Ali</h1>
 <p>A passionate Frontend developer.</p>
 <h2>🚀 Languages and Tools I Use</h2>
