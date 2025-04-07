@@ -1,4 +1,4 @@
-<img src="https://img.freepik.com/free-photo/computer-program-coding-screen_53876-138060.jpg?semt=ais_hybrid&w=740" alt="javascript" width="100" height="60" />
+<img src="https://img.freepik.com/free-photo/computer-program-coding-screen_53876-138060.jpg?semt=ais_hybrid&w=740" alt="javascript" width="100%" height="60" />
 <h1>Hi 👋, I'm Owais Ali</h1>
 <p>A passionate Frontend developer.</p>
 <h2>🚀 Languages and Tools I Use</h2>
