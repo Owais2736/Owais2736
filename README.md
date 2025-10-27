@@ -1,90 +1,114 @@
-# 👋 Hey there! I'm Owais Ali
+<p align="center">
+  <img src="https://i.ibb.co/zZzT7pz/dev-banner.gif" alt="Owais Ali Banner" width="100%" />
+</p>
 
-🚀 A passionate **Frontend Developer** who loves bringing ideas to life on the web.  
-Currently exploring the **MERN Stack** and diving deep into **Next.js, TypeScript, and Tailwind CSS**.  
-I’m all about building clean, responsive, and meaningful digital experiences.  
+<h1 align="center">Hey, I'm <span style="color:#4FD1C5;">Owais Ali</span></h1>
+<h3 align="center">A Passionate <span style="color:#4FD1C5;">Frontend Developer</span> | MERN Stack Enthusiast | UI Perfectionist</h3>
 
----
-
-## 🧠 What I'm Currently Doing
-- 🔭 Learning advanced **MERN Stack Development**  
-- 🧩 Exploring **AI integrations** with frontend tools  
-- 🎯 Building real-world projects to polish my craft  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4FD1C5&center=true&vCenter=true&width=600&lines=Building+Next-Level+UI+with+React;Frontend+Developer;MERN+Stack+Learner;Loves+TailwindCSS+and+Next.js;Coding+Clean+and+Smart" alt="Typing Animation" />
+</p>
 
 ---
 
-## ⚙️ Tech Stack & Tools I Use
-
-<div align="center">
-
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
-
-</div>
+## 🎯 About Me
+- 💡 Passionate about **building modern web apps** using **React** & **Next.js**.
+- 🧩 Currently diving deep into the **MERN Stack** (MongoDB, Express, React, Node.js).
+- 🎯 Obsessed with **UI polish**, **performance**, and **responsive design**.
+- 🎨 Love mixing design and logic to craft beautiful user experiences.
 
 ---
 
-## 📈 My GitHub Stats
+## 💻 Tech Stack
 
-<div align="center">
-
-![Owais's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OwaisAliDev&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OwaisAliDev&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
+<p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,nodejs,express,mongodb,git,github,vscode&theme=dark" alt="Tech Stack"/></a>
+</p>
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=OwaisAliDev&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15)
-
-</div>
+## 🏗️ What I’m Working On
+- 🌐 Building and deploying **full-stack MERN applications**.
+- 🎨 Crafting smooth, reusable UI components and **dashboards**.
+- ⚙️ Focusing on **backend integration** and efficient **API design**.
 
 ---
 
-## 🔥 Streak Stats
+### 🏆 GitHub Trophies
 
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=OwaisAliDev&theme=tokyonight&hide_border=true)
-
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Owais2736&theme=dracula&column=7&rank=SECRET" alt="Owais2736 GitHub Trophies" />
+</p>
 
 ---
 
-## 🌍 Let's Connect
+## 📈 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Owais2736&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="160" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=Owais2736&theme=tokyonight&hide_border=true" height="160" alt="GitHub Streak" />
+</p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=firefox)](https://your-portfolio-link.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-link)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-ff69b4?style=for-the-badge&logo=instagram)](https://instagram.com/your-handle)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter)](https://twitter.com/your-handle)
-
-</div>
-
----
-
-### ✨ A Little About Me
-
-💡 Always experimenting with new tech  
-🌱 Believe in clean code & good design  
-🎨 UI/UX enthusiast  
-⚡ Fun fact: I spend way too long perfecting animations 😅  
-
-> *“The best code is the one that speaks for itself.”*
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Owais2736&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
+### ⏱️ Coding Activity (WakaTime)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Owais2736&theme=dark&hide_border=true&layout=compact&langs_count=5" alt="WakaTime Stats" />
+</p>
+
+---
+
+## 📊 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Owais2736&theme=github-compact&hide_border=true&area=true&line=4FD1C5" width="95%" alt="Contribution Graph" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+<table align="center">
+<tr>
+<td align="center" width="50%">
+  <h4>💼 Portfolio Website</h4>
+  <a href="https://owaisali-portfolios.vercel.app/" target="_blank">
+    <img src="https://github.com/Owais2736/owaisali-portfolios/raw/main/preview.png" width="100%" alt="Portfolio Preview" />
+  </a>
+</td>
+<td align="center" width="50%">
+  <h4>⚙️ Car Dealership Platform</h4>
+  <a href="#" target="_blank">
+    <img src="https://i.ibb.co/WFdwD5t/project2.png" width="100%" alt="Project Preview" />
+  </a>
+  <p>React-based responsive platform with custom filters & modals</p>
+</td>
+</tr>
+</table>
+
+---
+
+### 💬 Dev Quote of the Day
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
+</p>
+
+
+
+
+## 🌍 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/owais-ali" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230a77b6.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://facebook.com/mdowaisali" target="_blank"><img src="https://img.shields.io/badge/Facebook-%230866ff.svg?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://instagram.com/owaisali_132" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E1306C.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4FD1C5&height=100&section=footer"/>
+</p>
