@@ -102,8 +102,8 @@
 
 ## 🌍 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/owais-ali](https://www.linkedin.com/in/owais-ali-28b343266?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230a77b6.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://facebook.com/mdowaisali](https://www.facebook.com/md.owais.ali.736650?mibextid=rS40aB7S9Ucbxw6v" target="_blank"><img src="https://img.shields.io/badge/Facebook-%230866ff.svg?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/owais-ali-28b343266?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230a77b6.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.facebook.com/md.owais.ali.736650?mibextid=rS40aB7S9Ucbxw6v" target="_blank"><img src="https://img.shields.io/badge/Facebook-%230866ff.svg?style=for-the-badge&logo=facebook&logoColor=white"/></a>
   <a href="https://instagram.com/owaisali_132" target="_blank](https://www.instagram.com/owaisali_132?igsh=dXA1bGk5dGI3MGUx"><img src="https://img.shields.io/badge/Instagram-%23E1306C.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
